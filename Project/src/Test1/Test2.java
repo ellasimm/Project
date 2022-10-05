@@ -23,7 +23,7 @@ Scanner input = new Scanner(System.in);
 		}
 		System.out.println("The sum of " + num2 + " is " + rev);
 		System.out.println("This statement is made by Omama."); 
-					
+		System.out.println("2nd statement made by me."); 			
 		
 		input.close();
 		
