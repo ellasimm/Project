@@ -21,6 +21,7 @@ Scanner input = new Scanner(System.in);
 			rev = rev + x;
 			num = Math.floorDiv((int) num, 10);
 		}
+		
 		System.out.println("The sum of " + num2 + " is " + rev);
 		System.out.println("This statement is made by Omama."); 
 		System.out.println("2nd statement made by me."); 	
