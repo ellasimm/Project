@@ -31,6 +31,7 @@ Scanner input = new Scanner(System.in);
 		System.out.println("Reza");
 		System.out.println("Ella");
 		System.out.println("R");
+		System.out.println("help");
 
 
 
