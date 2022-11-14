@@ -25,7 +25,8 @@ Scanner input = new Scanner(System.in);
 		System.out.println("This statement is made by Omama."); 
 		System.out.println("2nd statement made by me."); 	
 		
-		System.out.println("11/13/22")
+		System.out.println("11/13/22");
+		System.out.println("test");
 		
 		input.close();
 		
