@@ -30,6 +30,8 @@ Scanner input = new Scanner(System.in);
 		System.out.println("test");
 		System.out.println("Reza");
 		System.out.println("Ella");
+		System.out.println("R");
+
 
 
 		
